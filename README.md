@@ -23,3 +23,15 @@ Send email from Gmail Id in Django using HTML Template
 - Scroll till you find "Less secure app access"
 - Here you will find that the status is Off. You need to turn this to On State. 
 Only if you follow the above steps, then you can send mail from your Gmail account using your django code. 
+
+
+#
+### Note: THis section is can solve the Error which develoepr face in email sending....
+
+# Error 
+### Fix error code 10060 connection timeout in django email sending process...
+
+#### This can fix through : Verify web proxy connection.
+
+##### YouTube link to solve error:
+https://www.youtube.com/watch?v=8RYTriMo8EI&t=215s&ab_channel=ITTV
