@@ -34,3 +34,7 @@ Only if you follow the above steps, then you can send mail from your Gmail accou
 
 ##### YouTube link to solve error:
 https://www.youtube.com/watch?v=8RYTriMo8EI&t=215s&ab_channel=ITTV
+
+#
+Author: Muhammad ijaz
+
