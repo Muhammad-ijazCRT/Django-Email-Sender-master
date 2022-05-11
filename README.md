@@ -26,9 +26,8 @@ Only if you follow the above steps, then you can send mail from your Gmail accou
 
 
 #
-## Note: THis section is can solve the Error which develoepr face in email sending....
+# Note: THis section is can solve the Error which develoepr face in email sending....
 
-### Error 
 ### Fix error code 10060 connection timeout in django email sending process...
 
 #### This can fix through : Verify web proxy connection.
