@@ -34,15 +34,19 @@ Only if you follow the above steps, then you can send mail from your Gmail accou
 
 ### Follow the following steps: 
 step 1:
+
   ipconfig/release
 
 step 2:
-  ipconfig /renew
+
+    ipconfig /renew
 
 step 3:
+
   ipconfig /flushdns
   
 step 4:
+
     netsh winsock reset
 
 
