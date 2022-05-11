@@ -32,6 +32,20 @@ Only if you follow the above steps, then you can send mail from your Gmail accou
 
 #### This can fix through : Verify web proxy connection.
 
+### Follow the following steps: 
+step 1:
+  ipconfig/release
+
+step 2:
+  ipconfig /renew
+
+step 3:
+  ipconfig /flushdns
+  
+step 4:
+  netsh winsock reset
+
+
 ##### YouTube link to solve error:
 https://www.youtube.com/watch?v=8RYTriMo8EI&t=215s&ab_channel=ITTV
 
