@@ -43,7 +43,7 @@ step 3:
   ipconfig /flushdns
   
 step 4:
-  netsh winsock reset
+    netsh winsock reset
 
 
 ##### YouTube link to solve error:
