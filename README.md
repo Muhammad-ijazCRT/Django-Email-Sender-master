@@ -35,7 +35,7 @@ Only if you follow the above steps, then you can send mail from your Gmail accou
 ### Follow the following steps: 
 step 1:
 
-  ipconfig/release
+    ipconfig/release
 
 step 2:
 
@@ -43,7 +43,7 @@ step 2:
 
 step 3:
 
-  ipconfig /flushdns
+    ipconfig /flushdns
   
 step 4:
 
