@@ -4,5 +4,6 @@ from . import views
 
 urlpatterns = [
     path('', views.index),
-
+    # path('notifyUserAboutProjectShared',NotifyUserAboutProjectSharedView.as_view()),
+    
 ]

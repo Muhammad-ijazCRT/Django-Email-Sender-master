@@ -1,5 +1,5 @@
 from rest_framework import viewsets
-from rest_framework.decorators import api_view, permission_classes
+from rest_framework.decorators import api_view,permission_classes
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.parsers import JSONParser
@@ -19,7 +19,6 @@ import traceback
 from django.core.mail import send_mail
 from django.template import loader
 
-
 def index(request):
     # inject the respective values in HTML template
     html_message = loader.render_to_string(
@@ -27,12 +26,12 @@ def index(request):
         {
             'name': 'Recipient Name',
             'body':  'You have received this prestigious email!',
-        })
+        })    
     send_mail(
         'Congratulations!',
         'You are lucky to recieve this mail.',
-        'ijazkhancrt126@gmail.com',  # Update this with your mail id
-        ['ijazkhandowhf@gmail.com'],  # Update this with the recipients mail id
+        'from@example.com', # Update this with your mail id
+        ['to@example.com']  # Update this with the recipients mail id
         html_message=html_message,
         fail_silently=False,
     )
