@@ -35,6 +35,8 @@ Only if you follow the above steps, then you can send mail from your Gmail accou
 ## please go through this link
 if 10060 response time is make your headache then, it's mean that you have not set mail outlook on your pc. so pelase go through this link and it will help to fix this 10060 soket error.
 
+        https://www.youtube.com/watch?v=THkAdFNy164
+
 #### This can fix through : Verify web proxy connection.
 
 ### Follow the following steps: 
